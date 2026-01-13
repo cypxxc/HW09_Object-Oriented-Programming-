@@ -1,0 +1,14 @@
+D:\HW09_653120100120\Shape-C#\bin\Debug\net10.0\Shape-C#.exe
+D:\HW09_653120100120\Shape-C#\bin\Debug\net10.0\Shape-C#.deps.json
+D:\HW09_653120100120\Shape-C#\bin\Debug\net10.0\Shape-C#.runtimeconfig.json
+D:\HW09_653120100120\Shape-C#\bin\Debug\net10.0\Shape-C#.dll
+D:\HW09_653120100120\Shape-C#\bin\Debug\net10.0\Shape-C#.pdb
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.AssemblyInfoInputs.cache
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.AssemblyInfo.cs
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.csproj.CoreCompileInputs.cache
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.dll
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\refint\Shape-C#.dll
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.pdb
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\Shape-C#.genruntimeconfig.cache
+D:\HW09_653120100120\Shape-C#\obj\Debug\net10.0\ref\Shape-C#.dll
